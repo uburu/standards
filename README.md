@@ -1,0 +1,2 @@
+# standarts
+all our standarts

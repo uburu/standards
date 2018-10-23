@@ -210,7 +210,7 @@
 
 Простые списки для отображение ленточной информации.
 
-![list](.list.jpg)
+![list](./list.jpg)
 
 ```
 <div class="list-group">

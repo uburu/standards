@@ -5,7 +5,7 @@
 2. [Надстройка для bootstrap](#2-Надстройка-для-bootstrap)
 3. [Блоки](#3-Блоки)
     1. [Шапка (header)](#31-Шапка-header)
-    2. [Jumbotron](#32-Jumbotron)
+    2. [Jumbotron](#32-jumbotron)
     3. [Карточки (cards)](#33-Карточки-cards)
     4. [Карусель (carousel)](34-Карусель-carousel)
     5. [Модалки (modal)](#35-Модалки-modal)
